@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { AButton, ALink, ALogo } from '@portal/ui-lib'
+import { AButton, ALink, ALogo } from '@package/bits'
 </script>
 
 <template>

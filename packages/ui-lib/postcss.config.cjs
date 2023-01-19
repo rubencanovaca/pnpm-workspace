@@ -1,1 +1,0 @@
-module.exports = require("@portal/tailwind-config/postcss.config.cjs")

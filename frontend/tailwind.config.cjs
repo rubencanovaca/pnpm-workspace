@@ -1,0 +1,1 @@
+module.exports = require("@package/tailwind/tailwind.config.cjs")

@@ -1,9 +1,9 @@
 {
-  "name": "@portal/ui-lib",
+  "name": "@package/bits",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "module": "./dist/ui-lib.js",
+  "module": "./dist/bits.js",
   "types": "./dist/main.d.ts",
   "files": [
     "dist"
@@ -17,7 +17,7 @@
     "vue": "^3.2.45"
   },
   "devDependencies": {
-    "@portal/tailwind-config": "workspace:^0.0.0",
+    "@package/tailwind": "workspace:^0.0.0",
     "@vitejs/plugin-vue": "^4.0.0",
     "typescript": "^4.9.3",
     "vite": "^4.0.0",
